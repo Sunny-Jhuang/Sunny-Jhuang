@@ -41,7 +41,6 @@ c:\xampp>dir *.exe
 
 ˋˋˋ
 ##![擷取](https://user-images.githubusercontent.com/90752081/136343664-1d124889-83cb-4da8-a3fe-0d3567f0fc3b.PNG)
-![擷取](https://user-images.githubusercontent.com/90752081/136343736-0dc37c8e-ff84-4bbb-aa59-da28b67d12f2.PNG)
 我的第二支程式
 ˋˋˋ
 
