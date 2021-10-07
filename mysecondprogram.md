@@ -1,4 +1,5 @@
 ˋˋˋ
+
 Microsoft Windows [版本 10.0.19042.1237]
 (c) Microsoft Corporation. 著作權所有，並保留一切權利。
 
@@ -16,4 +17,5 @@ c:\xampp>dir *.exe
 2013/03/30  下午 08:29           118,784 xampp_stop.exe
                4 個檔案       3,666,944 位元組
                0 個目錄  132,978,135,040 位元組可
+
 ˋˋˋ
