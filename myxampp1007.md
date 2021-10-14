@@ -1,6 +1,5 @@
 # xampp目錄結構
 ˋˋˋ
-
 Microsoft Windows [版本 10.0.19042.1237]
 (c) Microsoft Corporation. 著作權所有，並保留一切權利。
 
@@ -21,7 +20,6 @@ c:\xampp>dir *.exe
 ˋˋˋ
 
 # 我的第一支程式
-
 ˋˋˋ
 <!DOCTYPE html>
 <html>
@@ -41,7 +39,6 @@ c:\xampp>dir *.exe
 ˋˋˋ
 
 # 我的第二支程式
-
 ˋˋˋ
 <!DOCTYPE html>
 <html>
