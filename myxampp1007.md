@@ -1,6 +1,6 @@
-#xampp目錄結構
+# xampp目錄結構
 
-
+ˋˋˋ
 Microsoft Windows [版本 10.0.19042.1237]
 (c) Microsoft Corporation. 著作權所有，並保留一切權利。
 
@@ -18,11 +18,11 @@ c:\xampp>dir *.exe
 2013/03/30  下午 08:29           118,784 xampp_stop.exe
                4 個檔案       3,666,944 位元組
                0 個目錄  132,978,135,040 位元組可
+ˋˋˋ
 
+# 我的第一支程式
 
-#我的第一支程式
-
-
+ˋˋˋ
 <!DOCTYPE html>
 <html>
 <head>
@@ -38,11 +38,11 @@ c:\xampp>dir *.exe
 
 </body>
 </html>
+ˋˋˋ
 
+# 我的第二支程式
 
-#我的第二支程式
-
-
+ˋˋˋ
 <!DOCTYPE html>
 <html>
 
@@ -61,7 +61,7 @@ c:\xampp>dir *.exe
 
 </body>
 </html>
-
+ˋˋˋ
 ![擷取](https://user-images.githubusercontent.com/90752081/136344403-cd608145-e7cb-452a-a2ca-d173c2c6c7af.PNG)
 ![擷取2](https://user-images.githubusercontent.com/90752081/136344854-dea6036d-dd15-429c-98fa-51f633d88d03.PNG)
 ![擷取3](https://user-images.githubusercontent.com/90752081/136347038-6a871c50-804a-4678-8548-a787d9e76780.PNG)
