@@ -1,7 +1,4 @@
-### 存取控制 seven功能
-```
-http://cisspstudy.blogspot.com/2007/05/types-of-access-control.html
-```
+# 存取控制 seven功能
 ```
 防禦性(Preventive)
 
