@@ -1,5 +1,5 @@
 # 存取控制 seven功能
-```
+
 防禦性(Preventive)
 
 偵測性(Detective)
@@ -11,4 +11,4 @@
 復原性(Recovery)
 
 補償性(Compensation)
-```
+
