@@ -1,14 +1,29 @@
 # 存取控制 seven功能
-ˋˋˋ
-防禦性(Preventive)
 
-偵測性(Detective)
+## 防禦性(Preventive)
 
-矯正性(Corrective)
+部署了預防性訪問控制以阻止發生不需要的或未經授權的活動。示例包括圍欄、鎖、生物識別技術、陷阱、照明、警報系統、職責分離、工作輪換、數據分類、滲透測試、訪問控制方法、加密、審計、安全攝像頭或閉路電視 
+(CCTV) )、智能卡、回撥、安全策略、安全意識培訓和防病毒軟件。
 
-嚇阻性(Deterrent)
+## 偵測性(Detective)
 
-復原性(Recovery)
 
-補償性(Compensation)
-ˋˋˋ
+
+## 矯正性(Corrective)
+
+
+
+## 嚇阻性(Deterrent)
+
+
+
+## 復原性(Recovery)
+
+
+
+## 補償性(Compensation)
+
+
+
+## 管理性(Directive)
+
