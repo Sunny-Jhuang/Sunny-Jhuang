@@ -1,9 +1,6 @@
 ![images](https://user-images.githubusercontent.com/90752081/136016707-78fc7451-504e-4d8f-a721-6f6683567211.jpg)
 # 周子瑜
 
-
-![images.jpg](images.jpg)
-
 ## GITHUB 語法  markdown
 
 - [Markdown文件](https://markdown.tw/)
